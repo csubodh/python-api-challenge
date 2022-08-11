@@ -1,5 +1,6 @@
 # Ignore API keys file
 WeatherPy/api_keys.py
+api_keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
